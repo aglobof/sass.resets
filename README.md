@@ -1,7 +1,12 @@
-sass-defaults
-=============
+# Sass Resets
 
-A glob of sass defaults
+> A glob of Sass resets.
+
+## Install
+
+With [Bower](http://bower.io) - `bower install aglobof-sass-resets`
+
+Import from your root sass file.
 
 ```
 // Sass Root File
