@@ -4,7 +4,7 @@
 ## Installation
 
 ```shell
-bower install aglobof-sass-resets
+bower install aglobof-sass.resets
 ```
 
 ## Usage
