@@ -1,20 +1,16 @@
-# Sass Resets
-
+# sass.resets
 > A glob of Sass resets.
 
-## Install
+## Installation
 
-With [Bower](http://bower.io) - `bower install aglobof-sass-resets`
-
-Import from your root sass file.
-
+```shell
+bower install aglobof-sass-resets
 ```
-// Sass Root File
-// ----------
 
-// Import defaults
-@import "/path/to/bower/sass-defaults/box";
-@import "/path/to/bower/sass-defaults/normalize";
-@import "/path/to/bower/sass-defaults/reset";
-@import "/path/to/bower/sass-defaults/typeset";
+## Usage
+
+```sass
+// Import
+@import "/path/to/bower/aglobof-sass.resets/normalize";
+@import "/path/to/bower/aglobof-sass.resets/box";
 ```

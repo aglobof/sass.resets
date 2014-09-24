@@ -1,18 +1,14 @@
 {
-  "name": "sass-defaults",
-  "version": "0.0.0",
+  "name": "aglobof-sass.resets",
+  "version": "0.0.1",
   "homepage": "aglobof.github.io",
   "authors": [
     "Robb Schiller <robbschiller@gmail.com>"
   ],
-  "description": "A glob of Sass defaults",
+  "description": "A glob of Sass Resets",
   "keywords": [
-    "sass",
-    "oocss",
-    "css",
-    "defaults"
+    "scss",
+    "glob"
   ],
-  "license": "MIT",
-  "ignore": [
-  ]
+  "license": "MIT"
 }
