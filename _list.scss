@@ -1,6 +1,7 @@
 // Glob - List reset mixins
 // ========================
 
+// List clear mixin
 @mixin list-clear {
   ul {
     list-style: none;
@@ -9,6 +10,7 @@
   }
 }
 
+// Inline list clear mixin
 @mixin list-clear-inline {                                                                                                                                                                              
   ul {
     list-style: none;
