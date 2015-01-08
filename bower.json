@@ -1,6 +1,6 @@
 {
   "name": "aglobof-sass.resets",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "homepage": "aglobof.github.io",
   "authors": [
     "Robb Schiller <robbschiller@gmail.com>"
@@ -9,6 +9,13 @@
   "keywords": [
     "scss",
     "glob"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
   ],
   "license": "MIT"
 }
