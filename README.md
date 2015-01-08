@@ -1,4 +1,4 @@
-# sass.resets
+# sass.resets [![Build Status](https://travis-ci.org/aglobof/sass.resets.svg?branch=master)](https://travis-ci.org/aglobof/sass.resets)
 > A glob of Sass resets.
 
 ## Installation
