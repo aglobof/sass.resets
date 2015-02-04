@@ -1,0 +1,26 @@
+{
+  "name": "aglobof-sass.resets",
+  "version": "1.0.2",
+  "description": "a glob of sass resets",
+  "main": "_glob.scss",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aglobof/sass.resets.git"
+  },
+  "keywords": [
+    "sass",
+    "reset"
+  ],
+  "author": "Robb Schiller <robbschiller@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aglobof/sass.resets/issues"
+  },
+  "homepage": "https://github.com/aglobof/sass.resets"
+}

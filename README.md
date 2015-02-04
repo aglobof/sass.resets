@@ -22,14 +22,4 @@ Or, include all the partials with the glob file —
 @import "bower_components/aglobof-sass.resets/glob";
 ```
 
-Include list clear mixins where needed.
-
-```sass
-.list {
-  @include list-clear;
-}
-
-.list__inline {
-  @include list-clear-inline;
-}
-```
+That's it.
